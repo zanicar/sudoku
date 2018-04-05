@@ -15,7 +15,8 @@ The implementation is terminal based and it will find all solutions in the given
 * '.' represents an empty cell;
 
 ## Output
-`Initial Solution:
+```
+Initial Solution:
 
    6   | 3     | 8   4
  5 3 7 |   9   |      
@@ -43,7 +44,8 @@ Solution 1:
  4 8 9 | 1 6 7 | 5 2 3
  1 7 2 | 5 3 9 | 4 8 6
 
-Found 1 solutions in 0.001000 seconds.`
+Found 1 solutions in 0.001000 seconds.
+```
 
 ## Examples
 ### Single Solutions (9x9)
