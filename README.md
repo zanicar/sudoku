@@ -1,7 +1,7 @@
 # sudoku
 A Golang terminal based sudoku solver, utilizing Dancing Links (Algorithm X) as described by Donald Knuth.
 
-This was my first proper Golang endeavor to familiarize myself with the language and only some minor changes have been made over the years since it was originally written. The DLX implementation is available here: github.com/zanicar/dlx
+This was my first proper Golang endeavor to familiarize myself with the language and only some minor changes have been made over the years since it was originally written. The DLX implementation is available here: https://github.com/zanicar/dlx
 
 The implementation is terminal based and it will find all solutions in the given search space (provided sufficient computing resources are available).
 
